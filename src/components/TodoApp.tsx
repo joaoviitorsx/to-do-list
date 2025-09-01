@@ -161,7 +161,7 @@ export const TodoApp = () => {
           <div className="flex items-center justify-center mb-4">
             <ListTodo className="h-8 w-8 text-primary mr-3" />
             <h1 className="text-4xl font-bold bg-gradient-primary bg-clip-text text-transparent">
-              Easy Go Todos
+              Lista de Atividades
             </h1>
           </div>
           <p className="text-muted-foreground text-lg">
